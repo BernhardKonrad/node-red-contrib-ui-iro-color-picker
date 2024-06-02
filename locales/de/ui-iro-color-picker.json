@@ -65,7 +65,7 @@
                 "Sättigung 0..100",
                 "Helligkeit 0..100",
                 "Temperatur 1000..40000",
-                "abstimmbares Wieß {v:100,t:40000}",
+                "abstimmbares Weiß {v:100,t:40000}",
                 "RGBW Objekt {r:255,g:255,b:255,w:255}",
                 "HSI Objekt {h:360,s:100,i:100}"],
             "layoutDirection": ["horizontal","vertical"]
